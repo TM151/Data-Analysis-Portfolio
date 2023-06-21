@@ -2,7 +2,7 @@
 Data Analysis for NY CitiBikes - A real company
 Data Source: Career Foundry
 
-This project sought to answer the following: 
+This project sought to answer the following to better understand the behaviour of customer base: 
 - What are the most popular pick-up locations across the city for NY Citi Bike rental?
 - How does the average trip duration vary across different age groups?
 - Which age group rents the most bikes?
